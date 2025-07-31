@@ -1,0 +1,17 @@
+.accordion{
+    --bs-accordion-btn-bg: #00ff6ac7;
+    --bs-accordion-active-color: #000000;
+    --bs-accordion-active-bg: #00ff6ac7;
+    --bs-accordion-btn-focus-box-shadow: none;
+}
+.alert{
+    --bs-alert-bg: #00ff6ac7;
+}
+.form-control:focus {
+  box-shadow: 0 0 0 0.2rem rgba(6, 209, 84, 0.8); /* Sombreado predeterminado de Bootstrap */
+  border:0;
+}
+.form-select:focus  {
+  box-shadow: 0 0 0 0.2rem rgba(6, 209, 84, 0.8); /* Sombreado predeterminado de Bootstrap */
+  border:0;
+}
